@@ -1,0 +1,37 @@
+.fall{
+    background-color: blanchedalmond;
+    border-radius: 12px;
+}
+.magamed{
+    color: yellow;
+}
+input{
+    border-radius: 12px;
+    border: none;
+}
+.mmm{
+    border-radius: 12px;
+    background-color: black;
+}
+.submit-btn{
+   background-color: green;
+   border-radius: 12px;
+    border: none;
+    color: white;
+
+}
+.meta {
+    margin-bottom: 2px; 
+}
+.f{
+      margin-bottom: 2px; 
+}
+.input{
+      margin-bottom: 2px; 
+}
+.form{
+      margin-bottom: 2px; 
+}
+.form-input{
+      margin-bottom: 2px; 
+}
